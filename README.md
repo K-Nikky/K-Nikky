@@ -17,9 +17,7 @@
 </tbody>
 </table>
  
- ### Contacts: 
- [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/judkao) 
-
+ 
  
  <img
 src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN0amxsN2t4eXluNXZwOGpkY2ptdHBtMDUwd3I2N3RyOGt3bDZucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" />
